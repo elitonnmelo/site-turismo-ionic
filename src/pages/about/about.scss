@@ -1,0 +1,44 @@
+page-about {
+
+}
+body {
+    background-color: #b3e1f7 ;
+  }
+  .h1titulo{
+      color: #050a70;
+      font-family: 'Acme', sans-serif;
+      text-align: center;
+      font-size: 25px;
+      margin-top: 100px;
+  }
+  .escopo {
+      float: left;
+      width: 100%; 
+  }
+  .posicaoDireita{ 
+      margin-left: 20px; 
+  }
+  .centro {
+      text-align: justify;
+      width: 90%;
+  }
+  .posicao {
+      margin-bottom: 20px;
+      padding: 13px; }
+      .posicao h2 {
+          border-bottom: 3px dashed #354a50;
+          margin: 0; }
+      .posicao a {
+          color: #166ca5;
+       }
+      .posicao img {
+          border: 1px solid #1608da;
+          float: left;
+          margin: 20px 15px 0 0;
+          padding: 1px;
+          width: 300px;
+          height: 200px; 
+      }
+  .clear {
+      clear: both; 
+  }

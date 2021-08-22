@@ -1,0 +1,42 @@
+page-home {
+}
+h1{
+    color: #050a70;
+    font-family: 'Acme', sans-serif;
+    font-size: 25px;
+}
+body {
+    background-color: #b3e1f7 ;
+  }
+
+p{
+    text-align: justify;
+}
+.posicao {
+    margin-bottom: 20px;
+    padding: 13px; }
+    .posicao p{
+        text-align: center;
+        text-align: justify;
+    }
+    .posicao h2 {
+        border-bottom: 3px dashed #354a50;
+        margin: 0; }
+    .posicao a {
+        color: #166ca5;
+     }
+    .posicao img {
+        border: 1px solid #1608da;
+        float: left;
+        margin: 20px 15px 0 0;
+        padding: 1px;
+        width: 300px;
+        height: 200px; 
+    }
+.clear {
+    clear: both; 
+}
+.escopo {
+    float: center;
+    width: 90%; 
+}
